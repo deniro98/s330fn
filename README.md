@@ -25,7 +25,7 @@ Catalina Works Cool!
 	3. Reboot.
 	
 	
-# Run SIRI on S510UA
+# Run SIRI on S330FN
 
 	1. Gen True SMBIOS and SN Number with Clover Configurator
 	2. Install nullethernet.kext from Rehabman
