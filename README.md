@@ -34,13 +34,13 @@ Catalina Works Cool!
 # Know problems
 
     1.  WIFI - low speed on uploading
-    2.  HDMI Reboot
+    2.  [HDMI Reboot](https://github.com/deniro98/s330fn/issues/1]
 
 # What is work?
 
     All works PERFECTLY!!
-    Wifi can work with https://github.com/zxystd/itlwm - Work with network name "Redmi", 2G/5G
-    Bluetooth works perfectly
+    Wifi can work with [itlwm](https://github.com/zxystd/itlwm) - Work with network name "Redmi", 2G/5G
+    Bluetooth works perfectly, thank's @zxystd
     Best 2G wifi with DWA131
     Touchpad perfect
     Keyboard perfect
