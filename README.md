@@ -1,6 +1,9 @@
 # hackintosh ASUS Vivobook S13 S330FN
 Full Efi for Asus Vivobook S13 S330FN. Works on Catalina
 
+# [Moved to OpenCore & Big Sur](https://github.com/deniro98/ASUS-S330FN-OPENCORE)
+
+
 ![Awesome](https://github.com/deniro98/s330fn/blob/master/screenshot.png?raw=true)
 
 Catalina Works Cool!
